@@ -1,1 +1,1 @@
-{'ver1':'18', 'ver2':'1', 'ver1':'\n•Base 2.25.15.80.\n•Enabled New Features.\n•[New] Fix Link A Device.\n• [Improvement] 100%  Fix Unofficial Login Problem.\n•Extend Expiration date.\n' , 'dli':'https://t.me/VD_AN/705'}
+{'ver1':'18', 'ver2':'1', 'ver3':'\n•Base 2.25.15.80.\n•Enabled New Features.\n•[New] Fix Link A Device.\n• [Improvement] 100%  Fix Unofficial Login Problem.\n•Extend Expiration date.\n' , 'dli':'https://t.me/VD_AN/705'}
